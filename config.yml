@@ -1,0 +1,12 @@
+---  
+  Mode: "default" 
+  logType: "default" 
+  logFormat: "default" 
+  logFile: "default" 
+  git: "default" 
+  msg: "default"
+  mesgFile: "default" 
+  appID: "default"
+  logEngine: "default"
+  framework: "default"
+  nugetEngine: "default"
